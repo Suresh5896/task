@@ -6,6 +6,7 @@ public class task
 		System.out.println("hello");
 		int b=200;
 		int c=100;
+		int d= 1000;
 	}
 	
 }
