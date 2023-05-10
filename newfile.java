@@ -7,5 +7,6 @@ public class task
 		int b=200;
 		int c=100;
 int d=150;
+int e=1000;
 	
 }
