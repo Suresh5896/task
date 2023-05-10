@@ -4,6 +4,7 @@ public class task
 	{
 	   int a =100;
 		System.out.println("hello");
+		int b=200;
 		
 	}
 	
