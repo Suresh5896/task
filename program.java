@@ -7,5 +7,6 @@ public class program
 		int b=200;
 
 int d=1000;
+int e =900;
 	
 }
